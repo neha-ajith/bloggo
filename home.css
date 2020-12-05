@@ -1,0 +1,53 @@
+body{
+    background-color: #2A363F;
+}
+
+.nav{
+    position: absolute;
+    width: 100vw;
+    height: 15%;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.nav img{
+    margin-top: 1.2%;
+    margin-left: 1%;
+}
+
+.nav p{
+    position: absolute;
+    width: 111px;
+    height: 44px;
+    left: 30%;
+    top: 0%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 38%;
+    color: #2A363F;
+}
+
+.signin{
+    position: absolute;
+    width: 15%;
+    height: 50%;
+    left: 80%;
+    top: 20%;
+    background: #5B90AE;
+    border-radius: 30px;
+}
+
+.signin p{
+    position: absolute;
+    left: 21.5%;
+    top: -15%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 0%;
+    color: white;
+}
