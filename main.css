@@ -1,0 +1,98 @@
+body {
+  background-color: #2a363f;
+}
+
+.yaklogo {
+  position: relative;
+  width: 535px;
+  height: 100vh;
+  left: 5%;
+  top: 0px;
+  background: url(post1edit.jpg);
+  background-repeat: no-repeat;
+  mix-blend-mode: lighten;
+  background-size: auto 100vh;
+}
+
+.email {
+  position: absolute;
+  width: 20px;
+  height: 50px;
+  left: 55%;
+  top: 30%;
+}
+
+input {
+  position: absolute;
+  width: 430px;
+  height: 80px;
+  background: #2a363f;
+  border: 3px solid #43aa97;
+  border-radius: 5px;
+  font-size: 34px;
+  font-family: Montserrat;
+  color: white;
+}
+
+::placeholder {
+  position: absolute;
+  width: 430px;
+  height: 80px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  vertical-align: middle;
+}
+
+.button {
+  position: absolute;
+  width: 20px;
+  height: 50px;
+  left: 55.3%;
+  top: 30%;
+}
+
+.button input {
+  position: absolute;
+  width: 430px;
+  height: 80px;
+  background: #2a363f;
+  background-color: #43aa7f;
+  border-radius: 5px;
+  font-size: 34px;
+  font-family: Montserrat;
+  color: black;
+  font-weight: bolder;
+}
+
+.vline {
+  position: absolute;
+  width: 20px;
+  height: 350px;
+  left: 45%;
+  top: 30%;
+  border-left: 1px solid white;
+}
+
+.forgot {
+  position: absolute;
+  left: 55.5%;
+  top: 77%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: grey;
+}
+
+.signup {
+  position: absolute;
+  left: 80%;
+  top: 77%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: grey;
+}
