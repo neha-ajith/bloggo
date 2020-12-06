@@ -19,14 +19,14 @@ body{
 .nav p{
     position: absolute;
     width: 111px;
-    height: 44px;
+    height: 26px;
     left: 30%;
-    top: 0%;
+    top: 25%;
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
-    line-height: 38%;
+    font-size: 20px;
+    line-height: 32%;
     color: #2A363F;
 }
 
